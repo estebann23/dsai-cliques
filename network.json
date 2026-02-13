@@ -1,0 +1,138 @@
+{
+  "people": [
+    {
+      "id": "yuri",
+      "name": "Yuri Potseluev",
+      "origin": "Moldova"
+    },
+    {
+      "id": "irina",
+      "name": "Irina Timus",
+      "origin": "Moldova"
+    },
+    {
+      "id": "maxmilcarz",
+      "name": "Max Milcarz",
+      "origin": "Poland"
+    },
+    {
+      "id": "bruna",
+      "name": "Bruna Lauro",
+      "origin": "Brazil"
+    },
+    {
+      "id": "epinckers",
+      "name": "Emma Pinckers",
+      "origin": "Netherlands"
+    },
+    {
+      "id": "kamil",
+      "name": "Kamil Motyl",
+      "origin": "Poland"
+    },
+    {
+      "id": "nichitabulgaru",
+      "name": "Nichita Bulgaru",
+      "origin": "Russia"
+    },
+    {
+      "id": "nikitashuv",
+      "name": "Nikita Shuvaev",
+      "origin": "Russia"
+    },
+    {
+      "id": "vladimirb",
+      "name": "Vladimir Borstov",
+      "origin": "Russia"
+    },
+    {
+      "id": "belov",
+      "name": "Mikhail Belov",
+      "origin": "Russia, Cyprus"
+    },
+    {
+      "id": "dmitrii",
+      "name": "Dmitrii Shakharov",
+      "origin": "Russia"
+    },
+    {
+      "id": "lerak",
+      "name": "Valerija Krumplevskaja",
+      "origin": "Lithuania, Russia"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "bruna",
+      "target": "maxmilcarz",
+      "type": "Love partner",
+      "weight": 8
+    },
+    {
+      "source": "epinckers",
+      "target": "kamil",
+      "type": "Love partner",
+      "weight": 8
+    },
+    {
+      "source": "yuri",
+      "target": "irina",
+      "type": "Love partner",
+      "weight": 8
+    },
+    {
+      "source": "yuri",
+      "target": "nikitashuv",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yuri",
+      "target": "dmitrii",
+      "type": "clique",
+      "weight": 1
+    },
+    {
+      "source": "yuri",
+      "target": "belov",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yuri",
+      "target": "vladimirb",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lerak",
+      "target": "vladimirb",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lerak",
+      "target": "belov",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lerak",
+      "target": "dmitrii",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lerak",
+      "target": "nikitashuv",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lerak",
+      "target": "nichitabulgaru",
+      "type": "connection",
+      "weight": 1
+    }
+  ]
+}
