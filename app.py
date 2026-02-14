@@ -24,6 +24,7 @@ for person in people:
     G.add_node(
         person["id"],
         label=person["name"],
+        language=person.get("language", ""),
         origin=person.get("origin", "")
     )
 
@@ -79,7 +80,8 @@ net.toggle_physics(True)
 if selected_id:
     for n in net.nodes:
         if n["id"] == selected_id:
-            n["size"] = 16
+            n["color"] = "#F0F5F6"  # Highlight color
+            n["size"] = 20  # Increase size for visibility
 
 with tempfile.NamedTemporaryFile(delete=False, suffix=".html") as tmp:
     net.save_graph(tmp.name)

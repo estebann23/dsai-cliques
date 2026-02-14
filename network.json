@@ -3,62 +3,548 @@
     {
       "id": "yuri",
       "name": "Yuri Potseluev",
-      "origin": "Moldova"
+      "origin": "Moldova/Russia",
+      "language": "Russian"
     },
     {
       "id": "irina",
       "name": "Irina Timus",
-      "origin": "Moldova"
-    },
-    {
-      "id": "maxmilcarz",
-      "name": "Max Milcarz",
-      "origin": "Poland"
-    },
-    {
-      "id": "bruna",
-      "name": "Bruna Lauro",
-      "origin": "Brazil"
-    },
-    {
-      "id": "epinckers",
-      "name": "Emma Pinckers",
-      "origin": "Netherlands"
-    },
-    {
-      "id": "kamil",
-      "name": "Kamil Motyl",
-      "origin": "Poland"
+      "origin": "Moldova/Russia",
+      "language": "Russian"
     },
     {
       "id": "nichitabulgaru",
       "name": "Nichita Bulgaru",
-      "origin": "Russia"
+      "origin": "Russia",
+      "language": "Russian"
     },
     {
       "id": "nikitashuv",
       "name": "Nikita Shuvaev",
-      "origin": "Russia"
+      "origin": "Russia",
+      "language": "Russian"
     },
     {
       "id": "vladimirb",
       "name": "Vladimir Borstov",
-      "origin": "Russia"
+      "origin": "Russia",
+      "language": "Russian"
     },
     {
       "id": "belov",
       "name": "Mikhail Belov",
-      "origin": "Russia, Cyprus"
+      "origin": "Russia/Cyprus",
+      "language": "Russian"
     },
     {
       "id": "dmitrii",
       "name": "Dmitrii Shakharov",
-      "origin": "Russia"
+      "origin": "Russia",
+      "language": "Russian"
     },
     {
       "id": "lerak",
       "name": "Valerija Krumplevskaja",
-      "origin": "Lithuania, Russia"
+      "origin": "Lithuania/Russia",
+      "language": "Russian, Lithuanian"
+    },
+    {
+      "id": "eszilagyi",
+      "name": "Emma Szilagyi",
+      "origin": "Romania/Hungary",
+      "language": "Romanian"
+    },
+    {
+      "id":"dnastasa",
+      "name": "Denisa Natasa",
+      "origin": "Romania",
+      "language": "Romanian"
+    },
+    {
+      "id": "epinckers",
+      "name": "Emma Pinckers",
+      "origin": "Netherlands",
+      "language": "Dutch"
+    },
+    {
+      "id": "kamil",
+      "name": "Kamil Lipinski",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+    {
+      "id": "maxmilcarz",
+      "name": "Max Milcarz",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+    {
+      "id": "bruna",
+      "name": "Bruna Lauro",
+      "origin": "Brazil",
+      "language": "Portuguese"
+    },
+    {
+      "id": "mateo",
+      "name": "Mateo Varela",
+      "origin": "Ecuador/Belgium",
+      "language": "Spanish, French"
+    },
+    {
+      "id": "lilibodnar",
+      "name": "Lili Bodnar",
+      "origin": "Hungary",
+      "language": "Hungarian"
+    },
+    {
+      "id": "andreas",
+      "name": "Andreas Binder",
+      "origin": "USA/Germany",
+      "language": "English"
+    },
+    {
+      "id": "igor",
+      "name": "Igor Swierlikowski",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+    {
+      "id": "beaboccolari",
+      "name": "Beatrice Boccolari",
+      "origin": "Italy",
+      "language": "Italian"
+    },
+    {
+      "id": "eve",
+      "name": "Eve Michaux",
+      "origin": "France",
+      "language": "French"
+    },
+    {
+      "id": "mario",
+      "name": "Mario Wettig",
+      "origin": "Germany/Romania",
+      "language": "German, French, English"
+    },
+    {
+      "id": "anastazja",
+      "name": "Anastazja Ziarko",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+    {
+      "id": "cecilia",
+      "name": "Cecilia Mazzola",
+      "origin": "Italy",
+      "language": "Italian"
+    },
+    {
+      "id": "remi",
+      "name": "Remi Heijmans",
+      "origin": "Belgium/Netherlands",
+      "language": "Dutch"
+    },
+    {
+      "id": "peter",
+      "name": "Zsula Péter",
+      "origin": "Hungary",
+      "language": "Hungarian"
+    },
+    {
+      "id": "elias",
+      "name": "Elias Fruhwein",
+      "origin": "Germany",
+      "language": "German, English"
+    },
+    {
+      "id": "emmanuel",
+      "name": "Emmanuel Gono",
+      "origin": "Zimbabwe",
+      "language": "Shona, English"
+    },
+    {
+      "id": "olaf",
+      "name": "Olaf Deckers",
+      "origin": "Netherlands",
+      "language": "Dutch"
+    },
+    {
+      "id": "lucw",
+      "name": "Luc Wehrens",
+      "origin": "Netherlands",
+      "language": "Dutch"
+    },
+    {
+      "id": "ramez",
+      "name": "Ramez Bassous",
+      "origin": "Palestine",
+      "language": "Arabic, Hebrew"
+    },
+    {
+      "id": "valentin",
+      "name": "Valentin Goeres",
+      "origin": "Luxembourg",
+      "language": "Luxembourgish, French, German, English"
+    },
+    {
+      "id": "fercabria",
+      "name": "Fernando Cabria",
+      "origin": "Spain",
+      "language": "Spanish"
+    },
+    {
+      "id": "annabalanya",
+      "name": "Anna Balaña",
+      "origin": "Spain/Albania",
+      "language": "Spanish, Catalan"
+    },
+    {
+      "id": "vincenzo",
+      "name": "Vincenzo Lama",
+      "origin": "Italy",
+      "language": "Italian"
+    },
+    {
+      "id": "nikitast",
+      "name": "Nikitas Ttikkou",
+      "origin": "Cyprus",
+      "language": "Greek"
+    },
+    {
+      "id": "marta-alvarez",
+      "name": "Marta Alvarez",
+      "origin": "Spain",
+      "language": "Spanish, Catalan"
+    },
+    {
+      "id": "henriette",
+      "name": "Henriette Voigt",
+      "origin": "Germany",
+      "language": "German"
+    },
+    {
+      "id": "gabriel-ise",
+      "name": "Gabriel Ise",
+      "origin": "Romania",
+      "language": "Romanian"
+    },
+    {
+      "id": "valeriag",
+      "name": "Valeria Georgiou",
+      "origin": "Cyprus",
+      "language": "Greek"
+    },
+    {
+      "id": "marta-polska",
+      "name": "Marta Adamowska",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+    {
+      "id": "katarina",
+      "name": "Katarina Dvornak",
+      "origin": "Slovakia/Poland",
+      "language": "Slovak, Polish"
+    },
+    {
+      "id": "ninaz",
+      "name": "Nina Zorawska",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+    {
+      "id": "jagoda",
+      "name": "Jagoda Jakuczun",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+    {
+      "id": "michalina",
+      "name": "Michalina Krawczyk",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+    {
+      "id": "jakubs",
+      "name": "Jakub Bujak",
+      "origin": "Poland",
+      "language": "Polish"
+    },
+     {
+      "id": "giovanni",
+      "name": "Giovanni Libero",
+      "origin": "Italy",
+      "language": "Italian"
+    },
+    {
+      "id": "wenjie",
+      "name": "Wenjie Liao",
+      "origin": "China",
+      "language": "Chinese"
+    },
+    {
+      "id": "jliu",
+      "name": "Jingyi Liu",
+      "origin": "China",
+      "language": "Chinese"
+    },
+    {
+      "id": "jinyang",
+      "name": "Jinyang Wen",
+      "origin": "China",
+      "language": "Chinese"
+    },
+    {
+      "id": "stellaz",
+      "name": "Stella Zhou",
+      "origin": "China",
+      "language": "Chinese"
+    },
+    {
+      "id": "stellaz",
+      "name": "Stella Zhou",
+      "origin": "China",
+      "language": "Chinese"
+    },
+    {
+      "id": "octa",
+      "name": "Octavian Rujan",
+      "origin": "Romania",
+      "language": "Romanian"
+    },
+    {
+      "id": "leonardoc",
+      "name": "Leonardo Cucinotta",
+      "origin": "Italy",
+      "language": "Italian"
+    },
+    {
+      "id": "andreaf",
+      "name": "Andrea Fraschetti",
+      "origin": "Italy",
+      "language": "Italian"
+    },
+    {
+      "id": "petermarschall",
+      "name": "Peter Marschall",
+      "origin": "Hungary",
+      "language": "Hungarian"
+    },
+    {
+      "id": "maximianp",
+      "name": "Maximian Popa",
+      "origin": "Romania",
+      "language": "Romanian"
+    },
+    {
+      "id": "jesse",
+      "name": "Jesse Hoydonckx",
+      "origin": "Netherlands",
+      "language": "Dutch"
+    },
+    {
+      "id": "alex-dawes",
+      "name": "Alexander Dawes",
+      "origin": "Zimbabwe, Australia",
+      "language": "English"
+    },
+    {
+      "id": "bilge",
+      "name": "Bilge Mert",
+      "origin": "Cyprus",
+      "language": "Turkish"
+    },
+    {
+      "id": "mariad",
+      "name": "Maria Duta",
+      "origin": "Romania",
+      "language": "Romanian"
+    },
+    {
+      "id": "larad",
+      "name": "Lara Dundar",
+      "origin": "Tukiye",
+      "language": "Turkish"
+    },
+    {
+      "id": "nehir",
+      "name": "Nehir Sarihan",
+      "origin": "Turkiye",
+      "language": "Turkish"
+    },
+    {
+      "id": "timurs",
+      "name": "Timur Schmidt",
+      "origin": "Germany",
+      "language": "German"
+    },
+    {
+      "id": "timurj",
+      "name": "Timur Jercaks",
+      "origin": "Latvia",
+      "language": "Latvian, Russian"
+    },
+    {
+      "id": "pauls",
+      "name": "Paul Sorocenko",
+      "origin": "Latvia",
+      "language": "Latvian, Russian"
+    },
+    {
+      "id": "giorgos",
+      "name": "Giorgos de Jonge",
+      "origin": "Netherlands/Greece",
+      "language": "Dutch, English"
+    },
+    {
+      "id": "zane",
+      "name": "Zane Zangana",
+      "origin": "Germany",
+      "language": "German, English"
+    },
+    {
+      "id": "bendavis",
+      "name": "Benjamin Davis",
+      "origin": "Germany",
+      "language": "German"
+    },
+    {
+      "id": "emre",
+      "name": "Emre Arac",
+      "origin": "Turkiye",
+      "language": "Turkish"
+    },
+    {
+      "id": "quentin",
+      "name": "Quentin Albrecht",
+      "origin": "Spain",
+      "language": "Spanish, Turkish"
+    },
+    {
+      "id": "carlosurmann",
+      "name": "Carlo Surmann",
+      "origin": "German",
+      "language": "Germany"
+    },
+    {
+      "id": "vivanova",
+      "name": "Viktoria Ivanova",
+      "origin": "Bulgaria",
+      "language": "Bulgarian"
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent Viitala",
+      "origin": "Finland",
+      "language": "Finnish"
+    },
+    {
+      "id": "taha",
+      "name": "Taha Koc",
+      "origin": "Turkiye",
+      "language": "Turkish"
+    },
+    {
+      "id": "paule",
+      "name": "Paul Elfering",
+      "origin": "Germany",
+      "language": "German"
+    },
+    {
+      "id": "angelo",
+      "name": "Angelo Thompson",
+      "origin": "Netherlands, Malawi",
+      "language": "English"
+    },
+    {
+      "id": "andrei",
+      "name": "Andrei Chiochiu",
+      "origin": "Romania",
+      "language": "Romanian"
+    },
+    {
+      "id": "yank",
+      "name": "Yan Klees",
+      "origin": "Germany",
+      "language": "German"
+    },
+    {
+      "id": "mihai",
+      "name": "Mihai Solescu",
+      "origin": "Romania",
+      "language": "Romanian"
+    },
+    {
+      "id": "evi",
+      "name": "Evi Levels",
+      "origin": "Netherlands",
+      "language": "Dutch"
+    },
+    {
+      "id": "rowaid",
+      "name": "Rowaid Asaba",
+      "origin": "Yemen",
+      "language": "Arabic"
+    },
+    {
+      "id": "yusuf-aydin",
+      "name": "Yusuf Aydin",
+      "origin": "Turkiye",
+      "language": "Turkish"
+    },
+    {
+      "id": "adrianb",
+      "name": "Adrian Berruga",
+      "origin": "Spain",
+      "language": "Spanish, Turkish"
+    },
+    {
+      "id": "masond",
+      "name": "Mason Decker",
+      "origin": "USA",
+      "language": "English"
+    },
+    {
+      "id": "hitesh",
+      "name": "Hitesh Satwani",
+      "origin": "UAE",
+      "language": "Arabic, English"
+    },
+    {
+      "id": "eldar",
+      "name": "Eldar Ulanov",
+      "origin": "Kyrgyztan",
+      "language": "Kyrgyz, English"
+    },
+    {
+      "id": "louve",
+      "name": "Louve Landgraf",
+      "origin": "Germany",
+      "language": "German"
+    },
+    {
+      "id": "nikhil",
+      "name": "Nikhil Kadavill",
+      "origin": "India",
+      "language": "Hindi"
+    },
+    {
+      "id": "adel",
+      "name": "Adel Asaad",
+      "origin": "Netherlands",
+      "language": "Dutch, Arabic"
+    },
+    {
+      "id": "ary",
+      "name": "Aryannis Cermeño",
+      "origin": "Spain",
+      "language": "Spanish"
+    },
+    {
+      "id": "est",
+      "name": "Esteban",
+      "origin": "Colombia/Spain",
+      "language": "Spanish"
     }
   ],
   "relationships": [
@@ -66,19 +552,67 @@
       "source": "bruna",
       "target": "maxmilcarz",
       "type": "Love partner",
-      "weight": 8
+      "weight": 10
     },
     {
       "source": "epinckers",
       "target": "kamil",
       "type": "Love partner",
-      "weight": 8
+      "weight": 10
     },
     {
       "source": "yuri",
       "target": "irina",
       "type": "Love partner",
-      "weight": 8
+      "weight": 10
+    },
+    {
+      "source": "yuri",
+      "target": "lerak",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "irina",
+      "target": "lerak",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "irina",
+      "target": "nichitabulgaru",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "irina",
+      "target": "nikitashuv",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "irina",
+      "target": "dmitrii",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "irina",
+      "target": "belov",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "irina",
+      "target": "vladimirb",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yuri",
+      "target": "nichitabulgaru",
+      "type": "connection",
+      "weight": 1
     },
     {
       "source": "yuri",
@@ -89,7 +623,7 @@
     {
       "source": "yuri",
       "target": "dmitrii",
-      "type": "clique",
+      "type": "connection",
       "weight": 1
     },
     {
@@ -133,6 +667,1309 @@
       "target": "nichitabulgaru",
       "type": "connection",
       "weight": 1
+    },
+    {
+      "source": "nichitabulgaru",
+      "target": "vladimirb",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nichitabulgaru",
+      "target": "belov",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nichitabulgaru",
+      "target": "dmitrii",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nichitabulgaru",
+      "target": "nikitashuv",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nikitashuv",
+      "target": "vladimirb",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nikitashuv",
+      "target": "belov",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nikitashuv",
+      "target": "dmitrii",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "dmitrii",
+      "target": "vladimirb",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "dmitrii",
+      "target": "belov",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "belov",
+      "target": "vladimirb",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lerak",
+      "target": "eszilagyi",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lerak",
+      "target": "dnastasa",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "dnastasa",
+      "target": "eszilagyi",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bruna",
+      "target": "mateo",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bruna",
+      "target": "lilibodnar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bruna",
+      "target": "andreas",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bruna",
+      "target": "igor",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bruna",
+      "target": "beaboccolari",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bruna",
+      "target": "eve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bruna",
+      "target": "mario",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bruna",
+      "target": "anastazja",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mateo",
+      "target": "lilibodnar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mateo",
+      "target": "andreas",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mateo",
+      "target": "igor",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mateo",
+      "target": "beaboccolari",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mateo",
+      "target": "eve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mateo",
+      "target": "mario",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mateo",
+      "target": "anastazja",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lilibodnar",
+      "target": "andreas",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lilibodnar",
+      "target": "igor",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lilibodnar",
+      "target": "beaboccolari",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lilibodnar",
+      "target": "eve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lilibodnar",
+      "target": "mario",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "lilibodnar",
+      "target": "anastazja",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "andreas",
+      "target": "igor",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "andreas",
+      "target": "beaboccolari",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "andreas",
+      "target": "eve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "andreas",
+      "target": "mario",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "andreas",
+      "target": "anastazja",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "igor",
+      "target": "beaboccolari",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "igor",
+      "target": "eve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "igor",
+      "target": "mario",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "igor",
+      "target": "anastazja",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "beaboccolari",
+      "target": "eve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "beaboccolari",
+      "target": "mario",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "beaboccolari",
+      "target": "anastazja",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "beaboccolari",
+      "target": "cecilia",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "eve",
+      "target": "mario",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "eve",
+      "target": "anastazja",
+      "type": "connection", 
+      "weight": 1
+    },
+    {
+      "source": "mario",
+      "target": "anastazja",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "maxmilcarz",
+      "target": "mateo",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "maxmilcarz",
+      "target": "lilibodnar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "maxmilcarz",
+      "target": "andreas",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "maxmilcarz",
+      "target": "igor",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "maxmilcarz",
+      "target": "beaboccolari",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "maxmilcarz",
+      "target": "eve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "maxmilcarz",
+      "target": "mario",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "maxmilcarz",
+      "target": "anastazja",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-polska",
+      "target": "katarina",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-polska",
+      "target": "ninaz",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-polska",
+      "target": "michalina",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-polska",
+      "target": "jagoda",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-polska",
+      "target": "jakubs",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "katarina",
+      "target": "ninaz",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "katarina",
+      "target": "michalina",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "katarina",
+      "target": "jagoda",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "katarina",
+      "target": "jakubs",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "ninaz",
+      "target": "michalina",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "ninaz",
+      "target": "jagoda",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "ninaz",
+      "target": "jakubs",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "michalina",
+      "target": "jagoda",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "michalina",
+      "target": "jakubs",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "jagoda",
+      "target": "jakubs",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "peter",
+      "target": "elias",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "peter",
+      "target": "petermarschall",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "peter",
+      "target": "vincenzo",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "adrianb",
+      "target": "fercabria",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "adrianb",
+      "target": "annabalanya",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "adrianb",
+      "target": "ramez",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "adrianb",
+      "target": "masond",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "peter",
+      "target": "remi",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "peter",
+      "target": "lucw",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "peter",
+      "target": "valentin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "peter",
+      "target": "emmanuel",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "remi",
+      "target": "elias",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "remi",
+      "target": "emmanuel",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "remi",
+      "target": "lucw",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "remi",
+      "target": "olaf",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "valentin",
+      "target": "ramez",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "valentin",
+      "target": "quentin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "ramez",
+      "target": "quentin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "eldar",
+      "target": "quentin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "eldar",
+      "target": "vivanova",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "eldar",
+      "target": "louve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "louve",
+      "target": "giorgos",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "louve",
+      "target": "giovanni",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "louve",
+      "target": "andreaf",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "louve",
+      "target": "zane",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "louve",
+      "target": "emre",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "louve",
+      "target": "vivanova",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "octa",
+      "target": "quentin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "octa",
+      "target": "vivanova",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "octa",
+      "target": "giovanni",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "octa",
+      "target": "hitesh",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giovanni",
+      "target": "quentin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "angelo",
+      "target": "quentin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "ramez",
+      "target": "rowaid",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "rowaid",
+      "target": "yusuf-aydin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "rowaid",
+      "target": "yusuf-aydin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "rowaid",
+      "target": "adel",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "taha",
+      "target": "yusuf-aydin",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "taha",
+      "target": "adel",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "taha",
+      "target": "timurs",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "taha",
+      "target": "fercabria",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "fercabria",
+      "target": "annabalanya",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "fercabria",
+      "target": "vincenzo",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "fercabria",
+      "target": "alex-dawes",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vincenzo",
+      "target": "annabalanya",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "fercabria",
+      "target": "nikitast",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nikitast",
+      "target": "annabalanya",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "alex-dawes",
+      "target": "annabalanya",
+      "type": "connection",
+      "weight": 1
+    },
+     {
+      "source": "vincenzo",
+      "target": "nikitast",
+      "type": "connection",
+      "weight": 1
+    },
+     {
+      "source": "marta-alvarez",
+      "target": "annabalanya",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-alvarez",
+      "target": "henriette",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-alvarez",
+      "target": "epinckers",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-alvarez",
+      "target": "ary",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-alvarez",
+      "target": "eldar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "epinckers",
+      "target": "ary",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "gabriel-ise",
+      "target": "ary",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "gabriel-ise",
+      "target": "henriette",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "henriette",
+      "target": "ary",
+      "type": "connection",
+      "weight": 1
+    },
+  
+    {
+      "source": "epinckers",
+      "target": "gabriel-ise",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-alvarez",
+      "target": "gabriel-ise",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "marta-alvarez",
+      "target": "eldar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "henriette",
+      "target": "eldar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giovanni",
+      "target": "eldar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "henriette",
+      "target": "jagoda",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "henriette",
+      "target": "katarina",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nikhil",
+      "target": "maximianp",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nikhil",
+      "target": "jesse",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "jesse",
+      "target": "maximianp",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "paule",
+      "target": "vincent",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mihai",
+      "target": "vincent",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nikhil",
+      "target": "vincent",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "jesse",
+      "target": "vincent",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "paule",
+      "target": "mihai",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "paule",
+      "target": "evi",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "octa",
+      "target": "giorgos",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "octa",
+      "target": "andreaf",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giorgos",
+      "target": "hitesh",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giorgos",
+      "target": "andreaf",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giorgos",
+      "target": "zane",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "zane",
+      "target": "andreaf",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "zane",
+      "target": "hitesh",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "andreaf",
+      "target": "hitesh",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "carlosurmann",
+      "target": "hitesh",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "carlosurmann",
+      "target": "giorgos",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "carlosurmann",
+      "target": "zane",
+      "type": "connection",
+      "weight": 1
+    },
+     {
+      "source": "carlosurmann",
+      "target": "andreaf",
+      "type": "connection",
+      "weight": 1
+    },
+     {
+      "source": "carlosurmann",
+      "target": "giovanni",
+      "type": "connection",
+      "weight": 1
+    },
+     {
+      "source": "carlosurmann",
+      "target": "vivanova",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giovanni",
+      "target": "wenjie",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "jinyang",
+      "target": "wenjie",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "jinyang",
+      "target": "stellaz",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "stellaz",
+      "target": "wenjie",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "jliu",
+      "target": "wenjie",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "stellaz",
+      "target": "jliu",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "jinyang",
+      "target": "jliu",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "jinyang",
+      "target": "emmanuel",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "emmanuel",
+      "target": "alex-dawes",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giovanni",
+      "target": "vivanova",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giovanni",
+      "target": "giorgos",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "giorgos",
+      "target": "emre",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "zane",
+      "target": "emre",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "hitesh",
+      "target": "emre",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bilge",
+      "target": "larad",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bilge",
+      "target": "mariad",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "larad",
+      "target": "mariad",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bilge",
+      "target": "nehir",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nehir",
+      "target": "larad",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "nehir",
+      "target": "mariad",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bilge",
+      "target": "giorgos",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bilge",
+      "target": "andreaf",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "leonardoc",
+      "target": "andrei",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "angelo",
+      "target": "andrei",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bendavis",
+      "target": "yank",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bendavis",
+      "target": "eldar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bendavis",
+      "target": "zane",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bendavis",
+      "target": "louve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bendavis",
+      "target": "giovanni",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "bendavis",
+      "target": "carlosurmann",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yank",
+      "target": "eldar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yank",
+      "target": "louve",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yank",
+      "target": "giorgos",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "andreaf",
+      "target": "eldar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yank",
+      "target": "zane",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yank",
+      "target": "emre",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yank",
+      "target": "giovanni",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yank",
+      "target": "vivanova",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "yank",
+      "target": "carlosurmann",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vincent",
+      "target": "masond",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "timurj",
+      "target": "lerak",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "pauls",
+      "target": "timurj",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "pauls",
+      "target": "lerak",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "cecilia",
+      "target": "valeriag",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "valeriag",
+      "target": "nikitast",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "angelo",
+      "target": "eldar",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "andrei",
+      "target": "mihai",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mihai",
+      "target": "leonardoc",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "est",
+      "target": "peter",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "est",
+      "target": "remi",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "est",
+      "target": "emmanuel",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "est",
+      "target": "ramez",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "est",
+      "target": "elias",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "est",
+      "target": "lucw",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "est",
+      "target": "vincent",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "est",
+      "target": "fercabria",
+      "type": "connection",
+      "weight": 1
     }
   ]
-}
+  }
