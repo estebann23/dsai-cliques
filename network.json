@@ -13,6 +13,12 @@
       "language": "Russian"
     },
     {
+      "id": "vladislav",
+      "name": "Vladislav Snytko",
+      "origin": "Russia",
+      "language": "Russian"
+    },
+    {
       "id": "nichitabulgaru",
       "name": "Nichita Bulgaru",
       "origin": "Russia",
@@ -665,6 +671,54 @@
     {
       "source": "lerak",
       "target": "nichitabulgaru",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vladislav",
+      "target": "vladimirb",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vladislav",
+      "target": "belov",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vladislav",
+      "target": "dmitrii",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vladislav",
+      "target": "nikitashuv",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vladislav",
+      "target": "nichitabulgaru",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vladislav",
+      "target": "lerak",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vladislav",
+      "target": "yuri",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "vladislav",
+      "target": "irina",
       "type": "connection",
       "weight": 1
     },
@@ -1800,6 +1854,12 @@
     {
       "source": "angelo",
       "target": "andrei",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "angelo",
+      "target": "mihai",
       "type": "connection",
       "weight": 1
     },
