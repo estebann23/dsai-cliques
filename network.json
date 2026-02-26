@@ -417,8 +417,8 @@
     {
       "id": "quentin",
       "name": "Quentin Albrecht",
-      "origin": "Spain",
-      "language": "Spanish, Turkish"
+      "origin": "Germany",
+      "language": "German"
     },
     {
       "id": "carlosurmann",
@@ -1684,6 +1684,12 @@
       "weight": 1
     },
     {
+      "source": "hitesh",
+      "target": "emmanuel",
+      "type": "connection",
+      "weight": 1
+    },
+    {
       "source": "emmanuel",
       "target": "alex-dawes",
       "type": "connection",
@@ -1692,6 +1698,12 @@
     {
       "source": "giovanni",
       "target": "vivanova",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "mario",
+      "target": "giovanni",
       "type": "connection",
       "weight": 1
     },
@@ -1770,6 +1782,18 @@
     {
       "source": "leonardoc",
       "target": "andrei",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "angelo",
+      "target": "andrei",
+      "type": "connection",
+      "weight": 1
+    },
+    {
+      "source": "leonardoc",
+      "target": "angelo",
       "type": "connection",
       "weight": 1
     },
